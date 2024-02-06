@@ -1,4 +1,4 @@
-#include "main.h"
+#include "search_algos.h"
 /**
   * linear_search - Searches linnear array and prints result
   * @array: search array

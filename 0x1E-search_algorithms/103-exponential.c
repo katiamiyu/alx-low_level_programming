@@ -1,11 +1,10 @@
-#include "main.h"
+#include "search_algos.h"
 /**
   * _binary_search - binary search for sorted array
   * @array: A pointer to the first element of the array
   * @left: The starting index.
   * @right: The ending index.
   * @value: The value.
-  *
   * Return: If the value not present or the array NULL, -1.
   *         else, the index where the value is located.
   */
